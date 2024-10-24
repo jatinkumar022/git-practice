@@ -17,7 +17,9 @@ function App() {
         </a>
       </div>
       <h1>Vite + Reacat</h1>
-      <h1>This code in the git branch feat-1</h1>
+      <h1>
+        This code in the git branch <feat-2></feat-2>
+      </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
